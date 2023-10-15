@@ -1,0 +1,36 @@
+body {font-family: Arial;
+    background-color: blanchedalmond;
+    width: 1000px;
+    margin:auto}
+
+h2 {font-family: 'Times New Roman';
+font-size: 50px;
+font-style: italic;
+text-align: left;
+height: 150px}
+
+#header {background-color:#f07878;}  
+
+#container {padding: 25px;
+            text-align: justify;}
+
+            #p1 {width: 700px;
+                height: 500px;}
+            
+            #p2 {width: 700px;
+                height: 500px;}
+                
+            #p3 {width: 700px;
+                height: 500px;}
+                
+            #p4 {width: 700px;
+                height: 500px;}
+
+#footer { color: black;
+    text-align: center;
+    display: block;
+    background-color: #f07878;
+    width: 1000px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+

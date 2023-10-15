@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{ 
+    width: 720px;
+    margin: auto;
+}
+.header{
+    height: 240px;
+    width: 720px;
+    background-image: url(image/header2.jpeg) ;
+}
+.sidebar{
+    height: 800px;
+    width: 280px;
+    background-image: url(image/sidebar2.jpeg) ;
+    float: left;
+}
+.content{
+    height: 800px;
+    width: 440px;
+    background-image: url(image/content2.jpeg) ;
+    float: right;
+}
+.footer{
+    height: 240px;
+    width: 720px;
+    background-image: url(image/footer2.jpeg) ;
+    float: right;
+}

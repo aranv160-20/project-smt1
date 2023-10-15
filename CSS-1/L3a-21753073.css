@@ -1,0 +1,13 @@
+body { background-color: #f07878;}
+
+h1 { font-family: 'Times New Roman';
+     font-size: 60px;
+     color: darkblue; }
+
+h3 {font-variant: small-caps; }
+
+h4 { font-size: 12px; 
+     font-style: italic; }
+
+p { text-align: justify;
+    font-family: 'century gothic';}

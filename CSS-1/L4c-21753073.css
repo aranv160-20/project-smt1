@@ -1,0 +1,39 @@
+body {font-family: Arial;
+    width: 700px;
+    height: auto;
+    margin: auto;}
+
+h2{font-family: Georgia;
+font-size: 30px;
+font-style: italic;
+text-align: center;
+padding-top: 50px;
+height: 150px;}
+
+#header{background-color: silver;
+    width: 700px;
+    height: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;}
+
+a {color: darkblue;
+text-align: justify;}
+
+#container {width: 700px;
+        border-left: 1px gray;
+        border-right: 1px gray;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;}
+
+#footer {background-color: black;
+    color: white;
+    width: 700px;
+    height: 40px;
+    margin-top: 0px;}
+.footer  {text-align: center;
+        display: block;
+        padding: 10px;}

@@ -1,0 +1,28 @@
+body {font-family: Arial;
+        width: 700px;
+        height: 700px;
+        margin: auto;}
+
+h2{font-family: Georgia;
+   font-size: 30px;
+   font-style: italic;
+   text-align: center;}
+
+#header{background-color: silver;
+        width: 700px;
+        height: 150px;}
+
+a {color: darkblue;
+   text-align: justify;}
+
+#container {width: 700px;
+            border: 1px silver;}
+
+#footer {background-color: black;
+        color: white;
+        width: 700px;
+        height: 40px;}
+
+.footer  {text-align: center;
+                display: block;
+        padding: 10px;}
